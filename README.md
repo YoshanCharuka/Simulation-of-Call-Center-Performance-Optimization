@@ -4,6 +4,6 @@ This case study examines the performance of a customer service call center that 
 open the cmd
 Run the Complete File 
 1. pip install simpy numpy pandas matplotlib seaborn
-2.python call_center_simulation.py
+2. python call_center_simulation.py
 
 
